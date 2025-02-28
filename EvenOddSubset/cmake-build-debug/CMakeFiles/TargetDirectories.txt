@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Bitmasks/EvenOddSubset/cmake-build-debug/CMakeFiles/EvenOddSubset.dir
+C:/Users/pc/CLionProjects/Bitmasks/EvenOddSubset/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Bitmasks/EvenOddSubset/cmake-build-debug/CMakeFiles/rebuild_cache.dir
