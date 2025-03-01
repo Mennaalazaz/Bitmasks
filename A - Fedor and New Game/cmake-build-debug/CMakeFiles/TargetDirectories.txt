@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Bitmasks/A - Fedor and New Game/cmake-build-debug/CMakeFiles/A___Fedor_and_New_Game.dir
+C:/Users/pc/CLionProjects/Bitmasks/A - Fedor and New Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Bitmasks/A - Fedor and New Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
