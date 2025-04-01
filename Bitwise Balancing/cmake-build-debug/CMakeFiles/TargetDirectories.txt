@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Bitmasks/Bitwise Balancing/cmake-build-debug/CMakeFiles/Bitwise_Balancing.dir
+C:/Users/pc/CLionProjects/Bitmasks/Bitwise Balancing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Bitmasks/Bitwise Balancing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
