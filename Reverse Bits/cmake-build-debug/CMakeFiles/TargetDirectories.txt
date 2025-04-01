@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Bitmasks/Reverse Bits/cmake-build-debug/CMakeFiles/Reverse_Bits.dir
+C:/Users/pc/CLionProjects/Bitmasks/Reverse Bits/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Bitmasks/Reverse Bits/cmake-build-debug/CMakeFiles/rebuild_cache.dir
